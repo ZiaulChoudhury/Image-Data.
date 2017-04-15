@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue Mar 21 12:27:21 2017
-
 @author: ziaulchoudhury
+Image reader provided by Prof. St. Jhon
 """
 
 import matplotlib.pyplot as plt  
